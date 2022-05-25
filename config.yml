@@ -1,0 +1,12 @@
+binance_api:
+  apiKey: "<API_KEY>" #Insert your API_KEY.
+  secretKey: "<secret_KEY>" #Insert your secret_KEY.
+
+settings:
+  isTest: False
+  base_currency: "USDT" 
+  INVESTMENT_AMOUNT_DOLLARS: 1000
+  MIN_PROFIT_DOLLARS: 5
+  BROKERAGE_PER_TRANSACTION_PERCENT: 0.1
+  skim: 1
+  verbose: True

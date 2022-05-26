@@ -21,7 +21,7 @@ binance_api:
   apiKey: "<API_KEY>" #Insert your API_KEY.
   secretKey: "<secret_KEY>" #Insert your secret_KEY.
 ```
-Then define .
+Then define the following variables.
 ```yaml
 settings:
   isTest: False #Want test mode?
@@ -39,3 +39,9 @@ python3 bta.py
 That's all, now let's make some money!
 
 ![Binance Triangular Arbitrage trading bot](https://i.ibb.co/bmfX4TV/Binnance-Triangular-Arbitrage.jpg)
+
+#### Note
+
+Is this bot profitable? 
+
+Well not really, the bot is too slow to be competitive with other bots on the market... But you can still try it and make your own opinion.
